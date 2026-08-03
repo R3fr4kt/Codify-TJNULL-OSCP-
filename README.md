@@ -1,8 +1,3 @@
-# Codify-TJNULL-OSCP-
-
-
-
-```markdown
 # Hack The Box — Codify Writeup
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)

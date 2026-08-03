@@ -33,7 +33,7 @@ Full penetration testing walkthrough and writeup for **Codify** machine on Hack 
    [Sudo Check: /opt/scripts/mysql-backup.sh] ➡️ [Wildcard Comparison Vulnerability]
                                       ⬇️
 [Python Bruteforce Script] ➡️ [Extract Root MySQL Password] ➡️ [su root] ➡️ [Read root.txt]
-
+````
 
 ## 🔍 Phase 1: Reconnaissance & Enumeration
 

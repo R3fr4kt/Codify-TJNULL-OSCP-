@@ -21,7 +21,7 @@ Full penetration testing walkthrough and writeup for **Codify** machine on Hack 
 
 ## 🛠️ Summary / Attack Chain
 
-
+```text
 [Nmap Scan: Ports 22, 80, 3000] ➡️ [Node.js Sandbox App (vm2) Detected]
                                       ⬇️
      [CVE-2023-30547: vm2 Sandbox Escape RCE] ➡️ [Reverse Shell as 'svc']
@@ -34,6 +34,7 @@ Full penetration testing walkthrough and writeup for **Codify** machine on Hack 
                                       ⬇️
 [Python Bruteforce Script] ➡️ [Extract Root MySQL Password] ➡️ [su root] ➡️ [Read root.txt]
 ````
+
 
 ## 🔍 Phase 1: Reconnaissance & Enumeration
 
